@@ -1,7 +1,7 @@
 {
-  	"name": "JS Playground Hello World",
+  	"name": "nodejs",
     "version": "0.0.1",
   	"dependencies": {
-    	"express": "~2.5.9"
+    	"express": "^4.16.3"
   	}
 }
